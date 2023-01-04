@@ -1,0 +1,152 @@
+Backend:
+- Internet:
+  - How does the internet work?
+  - What is HTTP?
+  - Browsers and how they work?
+  - DNS and how it works?
+  - What is Domain Name?
+  - What is hosting?
+- Learn a Language:
+  - Rust
+  - Go
+  - Java
+  - C#
+  - PHP
+  - JavaScript
+  - Python
+  - Ruby
+- Version Control Systems:
+  - Git
+- Repo hosting services:
+  - GitHub
+  - GitLab
+  - Bitbucket
+- OS and General Knowledge:
+  - Terminal Usage
+  - POSIX Basics(stdin, stdout, stderr, pipes)
+  - Basic Terminal Commands(grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill, dig)
+  - How OSs work in General
+  - Memory Management
+  - Interprocess Communication
+  - I/O Management
+  - Basic Networking Concepts
+  - Threads and Concurrency
+  - Process Management
+- Relational Databases:
+  - PostgreSQL
+  - MySQL
+  - MariaDB
+  - MS SQL
+  - Oracle
+- NoSQL Databases:
+  - Document DBs
+    - MongoDB
+    - CouchDB
+  - Time Series:
+    - InfluxDB
+    - TimeScale
+  - Realtime:
+    - Firebase
+    - RethinkDB
+  - Key-Value:
+    - Redis
+    - DynamoDB
+- More about Databases:
+  - ORMs
+  - ACID
+  - Transactions
+  - N+1 Problem
+  - Normalization
+  - Failure Modes
+  - Profiling Perfor
+- Scaling Databases:
+  - Database Indexes
+  - Data Replication
+  - Sharding Strategies
+  - CAP Theorem
+- Learn about APIs:
+ - HATEOAS
+ - Open API Specs
+ - Authentication:
+   - Cookie Based
+   - OAuth
+   - Basic Auth
+   - Token Auth
+   - JWT
+   - OpenID
+   - SAML
+ - REST
+ - JSON APIs
+ - SOAP
+ - gRPC
+ - GraphQL
+- Caching:
+  - Client Side
+  - Server Side
+    - Redis
+    - Memcached
+- Web Security Knowledge:
+  - Hashing Algorithms:
+    - MD5 and why not to use it
+    - SHA Family
+    - scrypt
+    - bcrypt
+  - HTTPS
+  - OWASP Risks
+  - CORS
+  - SSL/TLS
+  - Content Security Policy
+  - Server Security
+- Testing:
+  - Integration Testing
+  - Unit Testing
+  - Functional Testing
+- CI / CD
+- Software Design and Architecture
+- Design and Development Principles:
+  - GOF Design Patterns
+  - Domain Driven Design
+  - Test Driven Development
+  - CQRS
+  - Event Sourcing
+- Architectural Patterns:
+  - Monolithic Apps
+  - Microservices
+  - SOA
+  - Serverless
+  - Service Mesh
+  - Twelve Factor Apps
+- Search Engines:
+  - Elasticsearch
+  - Solr
+- Message Brokers:
+  - RabbitMQ
+  - Kafka
+- Containerization vs Virtualization:
+  - Kubernetes
+  - Docker
+  - LXC
+- GraphQL:
+  - Apollo
+  - Relay Modern
+- WebSockets
+- Server Sent Events
+- Web Servers:
+  - Nginx
+  - Apache
+  - Caddy
+  - MS IIS
+- Building for Scale:
+  - Difference between these
+    - Telemetry
+    - Monitoring
+    - Instrumentation
+  - Mitigation Strategies:
+    - Graceful Degradation
+    - Throttling
+    - Backpressure
+    - Backpressure
+    - Loadshifting
+    - Circuit Breaker
+  - Migration Strategies
+  - Types of Scaling
