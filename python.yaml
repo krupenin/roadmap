@@ -1,0 +1,48 @@
+python:
+- Learn the Basics:
+  - Basic Syntax
+  - Variables and Data Types
+  - Conditionals
+  - Type Casting, Exceptions
+  - Functions, Builtin Functions
+  - Lists, Tuples, Sets, Dictionaries
+- Datastructures and Algorithms:
+  - Arrays and Linked Lists
+  - Heaps, Stacks and Queue
+  - Hash Tables
+  - Binary Search Trees
+  - Recursion
+  - Sorting Algorithm
+- Advanced Topics:
+  - Iterators
+  - Decorators
+  - Lambdas
+  - RegEx
+  - List Comprehensions
+  - Generator Expressions
+  - Paradigms
+- OOP:
+  - Classes
+  - Inheritance
+  - Methods, Dunder
+- Modules:
+  - Builtin
+  - Custom
+- Package Managers:
+  - PyPI
+  - Pip
+  - Conda
+- Learn a Framework:
+  - FastAPI
+  - Flask
+  - aiohttp
+  - Sanic
+  - Tornado
+  - gevent
+  - Pyramid
+  - Django
+- Testing your Apps:
+  - pytest
+  - doctest
+  - unittest / pyUnit
+  - nose
